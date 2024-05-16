@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "date": "2017-01-01",
+    "weather": "rainy",
+    "visibility": "poor",
+    "comment": "Pretty scary flight, I'm glad I'm alive"
+  },
+  {
+    "id": 2,
+    "date": "2017-04-01",
+    "weather": "windy",
+    "visibility": "great",
+    "comment": "Beautiful"
+  },
+  {
+    "id": 3,
+    "date": "2017-05-01",
+    "weather": "cloudy",
+    "visibility": "good",
+    "comment": "Pretty good day "
+  },
+  {
+    "id": 4,
+    "date": "2017-08-26",
+    "weather": "sunny",
+    "visibility": "ok",
+    "comment": "Pretty good flight, I'm glad I'm dead"
+  }
+]
